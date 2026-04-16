@@ -79,11 +79,11 @@ Console.WriteLine(x < y);
 ```
 # 3.3 Logical Operators
 Used to combine conditions.
-| Operator | Meaning |   |    |
-| -------- | ------- | - | -- |
-| &&       | AND     |   |    |
-| ||       |         |   | OR |
-| !        | NOT     |   |    |
+| Operator | Meaning | Description |
+|----------|---------|-------------|
+| &&       | AND     | Both conditions must be true |
+| \|\|     | OR      | At least one condition must be true |
+| !        | NOT     | Reverses the condition |
 
 
 Example
