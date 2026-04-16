@@ -26,7 +26,6 @@ Mastering-CSharp-For-Software-Engineering/
 │   ├── Module-01-Intro-to-CSharp/
 │   │   ├── Module-README.md
 │   │   ├── Lesson-01-What-is-CSharp/
-│   │   │   ├── README.md
 │   │   │   ├── Notes.md
 │   │   │   ├── Assignment.md
 │   │   │   └── Source-Code/
@@ -39,12 +38,10 @@ Mastering-CSharp-For-Software-Engineering/
 │   ├── Module-02-Variables-DataTypes/
 │   │   ├── Module-README.md
 │   │   ├── Lesson-03-Variables/
-│   │   │   ├── README.md
 │   │   │   ├── Notes.md
 │   │   │   ├── Assignment.md
 │   │   │   └── Source-Code/
 │   │   └── Lesson-04-Operators-Casting/
-│   │       ├── README.md
 │   │       ├── Notes.md
 │   │       ├── Assignment.md
 │   │       └── Source-Code/
@@ -52,12 +49,10 @@ Mastering-CSharp-For-Software-Engineering/
 │   ├── Module-03-Conditions/
 │   │   ├── Module-README.md
 │   │   ├── Lesson-05-If-Else/
-│   │   │   ├── README.md
 │   │   │   ├── Notes.md
 │   │   │   ├── Assignment.md
 │   │   │   └── Source-Code/
 │   │   └── Lesson-06-Switch-Case/
-│   │       ├── README.md
 │   │       ├── Notes.md
 │   │       ├── Assignment.md
 │   │       └── Source-Code/
@@ -65,36 +60,24 @@ Mastering-CSharp-For-Software-Engineering/
 │   ├── Module-04-Loops/
 │   │   ├── Module-README.md
 │   │   ├── Lesson-07-Loops/
-│   │   │   ├── README.md
 │   │   │   ├── Notes.md
 │   │   │   ├── Assignment.md
 │   │   │   └── Source-Code/
 │   │   └── Lesson-08-Arrays-Foreach/
-│   │       ├── README.md
 │   │       ├── Notes.md
 │   │       ├── Assignment.md
 │   │       └── Source-Code/
 │   │
 │   ├── Module-05-Methods/
-│   │   ├── Module-README.md
-│   │   ├── Lesson-09-Methods/
-│   │   │   ├── README.md
-│   │   │   ├── Notes.md
-│   │   │   ├── Assignment.md
-│   │   │   └── Source-Code/
-│   │   └── Lesson-10-Overloading-Recursion/
-│   │       ├── README.md
-│   │       ├── Notes.md
-│   │       ├── Assignment.md
-│   │       └── Source-Code/
-│   │
-│   └── MiniProject-ATM-System/
-│       ├── README.md
-│       ├── Notes.md
-│       ├── Assignment.md
-│       ├── Source-Code/
-│       ├── Screenshots/
-│       └── Demo-Video-Link.md
+│       ├── Module-README.md
+│       ├── Lesson-09-Methods/
+│       │   ├── Notes.md
+│       │   ├── Assignment.md
+│       │   └── Source-Code/
+│       └── Lesson-10-Overloading-Recursion/
+│           ├── Notes.md
+│           ├── Assignment.md
+│           └── Source-Code/    
 │
 ├── 02-Phase-2-OOP/
 │   ├── Phase-README.md
@@ -288,6 +271,9 @@ Mastering-CSharp-For-Software-Engineering/
 │   ├── Coding-Challenges/
 │   └── Resume-Portfolio-Guide.md
 
-``bash
+```
+```bash
 Lecture: Daham Sathmina (ODSDLABS)
 ```
+
+
