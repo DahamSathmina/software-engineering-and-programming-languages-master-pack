@@ -269,5 +269,7 @@ Yes. C# is highly demanded for:
 
 Yes. All lesson source code and project source code will be organized phase-by-phase inside this GitHub repository.
 
-Lecturer: Daham Sathmina
-Organization: ODSDLABS
+```bash
+ Lecturer: Daham Sathmina
+ Organization: ODSDLABS
+ ```
