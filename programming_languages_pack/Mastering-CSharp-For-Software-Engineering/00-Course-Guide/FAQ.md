@@ -198,8 +198,9 @@ Example workflow:
 git add .
 git commit -m "Completed Lesson XX Assignment"
 git push origin main
-
+```
 ---
+
 ## 21. What if I get errors while coding?
 
 Errors are normal. If you face errors:
