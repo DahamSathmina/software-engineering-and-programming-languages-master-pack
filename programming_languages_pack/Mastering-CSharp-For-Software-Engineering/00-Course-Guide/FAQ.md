@@ -1,8 +1,6 @@
 # FAQ (Frequently Asked Questions)
 Mastering C# for Software Engineering (Beginner to Professional)
-
 This FAQ document answers the most common questions about the course structure, requirements, and learning process
-
 
 ## 1. Who is this course designed for?
 This course is designed for:
