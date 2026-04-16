@@ -257,13 +257,7 @@ Mastering-CSharp-For-Software-Engineering/
 │   │
 │   └── Phase-Projects.md
 │
-├── 07-Final-Projects/
-│   ├── FinalProject-Hotel-Management-System/
-│   ├── FinalProject-Hospital-Management-System/
-│   ├── FinalProject-ECommerce-System/
-│   └── FinalProject-POS-Advanced/
-│
-├── 08-Interview-Preparation/
+├── 07-Interview-Preparation/
 │   ├── CSharp-Interview-Questions.md
 │   ├── DotNet-Interview-Questions.md
 │   ├── SQL-Interview-Questions.md
