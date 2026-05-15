@@ -29,11 +29,11 @@ These workloads include everything needed for:
 > [!IMPORTANT]
 >## Recommended Components
 >Make sure these components are installed:
-
-- .NET SDK (latest)  
-- C# compiler  
-- MSBuild tools  
-- NuGet package manager  
+>
+>- .NET SDK (latest)  
+>- C# compiler  
+>- MSBuild tools  
+>- NuGet package manager  
 
 ---
 
