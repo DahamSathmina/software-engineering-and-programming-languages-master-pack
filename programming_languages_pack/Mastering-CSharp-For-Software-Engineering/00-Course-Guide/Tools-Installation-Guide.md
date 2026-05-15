@@ -24,10 +24,11 @@ These workloads include everything needed for:
 - Windows Forms / WPF applications  
 - ASP.NET Core MVC projects  
 - ASP.NET Core Web API development  
-- SQL integration  
-
-## Recommended Components
-Make sure these components are installed:
+- SQL integration
+  
+> [!IMPORTANT]
+>## Recommended Components
+>Make sure these components are installed:
 
 - .NET SDK (latest)  
 - C# compiler  
